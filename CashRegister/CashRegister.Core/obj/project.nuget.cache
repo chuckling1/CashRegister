@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lolHQBL6N25wcqnLW9nIo51cca3JDtYaENGlvqCBq6tOIRq7ffgfdPpTAasQ6x4lLIH9WuFu/B0AYppkLpKfpA==",
+  "success": true,
+  "projectFilePath": "/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/CashRegister.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/charlie/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.6.24327.7/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/home/charlie/.nuget/packages/microsoft.extensions.options/9.0.0-preview.6.24327.7/microsoft.extensions.options.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/home/charlie/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.6.24327.7/microsoft.extensions.primitives.9.0.0-preview.6.24327.7.nupkg.sha512"
+  ],
+  "logs": []
+}

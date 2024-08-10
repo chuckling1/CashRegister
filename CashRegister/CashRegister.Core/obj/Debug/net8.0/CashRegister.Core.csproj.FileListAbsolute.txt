@@ -1,0 +1,13 @@
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/bin/Debug/net8.0/CashRegister.Core.deps.json
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/bin/Debug/net8.0/CashRegister.Core.dll
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/bin/Debug/net8.0/CashRegister.Core.pdb
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/obj/Debug/net8.0/CashRegister.Core.csproj.AssemblyReference.cache
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/obj/Debug/net8.0/CashRegister.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/obj/Debug/net8.0/CashRegister.Core.AssemblyInfoInputs.cache
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/obj/Debug/net8.0/CashRegister.Core.AssemblyInfo.cs
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/obj/Debug/net8.0/CashRegister.Core.csproj.CoreCompileInputs.cache
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/obj/Debug/net8.0/CashRegister.Core.sourcelink.json
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/obj/Debug/net8.0/CashRegister.Core.dll
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/obj/Debug/net8.0/refint/CashRegister.Core.dll
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/obj/Debug/net8.0/CashRegister.Core.pdb
+/home/charlie/Repos/CashRegister2/CashRegister/CashRegister.Core/obj/Debug/net8.0/ref/CashRegister.Core.dll

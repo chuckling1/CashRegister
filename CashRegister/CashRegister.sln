@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegister.Core", "CashRegister.Core\CashRegister.Core.csproj", "{DA466897-84D1-4559-9F36-702D0DDBED54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegister.API", "CashRegister.API\CashRegister.API.csproj", "{E61FFF45-9484-4BFB-9D46-682EA12A5955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegister.Tests", "CashRegister.Tests\CashRegister.Tests.csproj", "{BE3E0E4F-1988-4875-9806-8DCE597EE234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA466897-84D1-4559-9F36-702D0DDBED54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA466897-84D1-4559-9F36-702D0DDBED54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA466897-84D1-4559-9F36-702D0DDBED54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA466897-84D1-4559-9F36-702D0DDBED54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E61FFF45-9484-4BFB-9D46-682EA12A5955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61FFF45-9484-4BFB-9D46-682EA12A5955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61FFF45-9484-4BFB-9D46-682EA12A5955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61FFF45-9484-4BFB-9D46-682EA12A5955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3E0E4F-1988-4875-9806-8DCE597EE234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3E0E4F-1988-4875-9806-8DCE597EE234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3E0E4F-1988-4875-9806-8DCE597EE234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3E0E4F-1988-4875-9806-8DCE597EE234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

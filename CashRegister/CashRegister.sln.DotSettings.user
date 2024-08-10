@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=39502360_002D7548_002D46bc_002D83a2_002Da52b32a04b34/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculateModifiedChange_ShouldReturnExpectedString" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::BE3E0E4F-1988-4875-9806-8DCE597EE234::net8.0::CashRegister.Tests.DivisibleByNumberRandomChangeModifierTests.CalculateModifiedChange_ShouldReturnExpectedNumberOfDenomination&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::BE3E0E4F-1988-4875-9806-8DCE597EE234::net8.0::CashRegister.Tests.DivisibleByNumberRandomChangeModifierTests.CalculateModifiedChange_WithRealRandomNumbers_ShouldReturnExpectedNumberOfDenomination&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/charlie/Repos/CashRegister2/CashRegister/CashRegister/CashRegister.csproj": {}
+  },
+  "projects": {
+    "/home/charlie/Repos/CashRegister2/CashRegister/CashRegister/CashRegister.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/charlie/Repos/CashRegister2/CashRegister/CashRegister/CashRegister.csproj",
+        "projectName": "CashRegister.Core",
+        "projectPath": "/home/charlie/Repos/CashRegister2/CashRegister/CashRegister/CashRegister.csproj",
+        "packagesPath": "/home/charlie/.nuget/packages/",
+        "outputPath": "/home/charlie/Repos/CashRegister2/CashRegister/CashRegister/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/charlie/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/charlie/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

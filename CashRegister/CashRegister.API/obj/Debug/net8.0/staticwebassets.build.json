@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lOY9XIJdOljrwrrm8hJZpyIyjIIjbRUtne/C9HWL8XE=",
+  "Source": "CashRegister.API",
+  "BasePath": "_content/CashRegister.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

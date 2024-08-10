@@ -1,0 +1,21 @@
+{
+  "Currencies": [
+    {
+      "CurrencyType": "USD",
+      "Denominations": [
+        { "Name": "dollar", "Value": 1.00 },
+        { "Name": "quarter", "Value": 0.25 },
+        { "Name": "dime", "Value": 0.10 },
+        { "Name": "nickel", "Value": 0.05 },
+        { "Name": "penny", "Value": 0.01 }
+      ]
+    },
+    {
+      "CurrencyType": "EUR",
+      "Denominations": [
+        { "Name": "euro", "Value": 1.00 },
+        { "Name": "cent", "Value": 0.01 }
+      ]
+    }
+  ]
+}
