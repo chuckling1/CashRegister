@@ -2,5 +2,5 @@ namespace CashRegister.Core.Models;
 
 public class CurrencyOptions
 {
-    public List<Currency> Currencies { get; set; }
+    public List<Currency>? Currencies { get; set; }
 }

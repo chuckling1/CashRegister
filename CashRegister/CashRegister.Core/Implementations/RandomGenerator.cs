@@ -1,5 +1,4 @@
 using CashRegister.Core.Interfaces;
-
 namespace CashRegister.Core.Implementations;
 
 public class RandomGenerator(int? seed = null) : IRandomGenerator

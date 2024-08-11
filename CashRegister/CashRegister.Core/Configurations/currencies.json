@@ -3,18 +3,18 @@
     {
       "CurrencyType": "USD",
       "Denominations": [
-        { "Name": "dollar", "Value": 1.00 },
-        { "Name": "quarter", "Value": 0.25 },
-        { "Name": "dime", "Value": 0.10 },
-        { "Name": "nickel", "Value": 0.05 },
-        { "Name": "penny", "Value": 0.01 }
+        { "name": "penny", "PluralName": "pennies", "value": 0.01 },
+        { "name": "nickel", "PluralName": "nickels", "value": 0.05 },
+        { "name": "dime", "PluralName": "dimes", "value": 0.10 },
+        { "name": "quarter", "PluralName": "quarters", "value": 0.25 },
+        { "name": "dollar", "PluralName": "dollars", "value": 1.00 }
       ]
     },
     {
       "CurrencyType": "EUR",
       "Denominations": [
-        { "Name": "euro", "Value": 1.00 },
-        { "Name": "cent", "Value": 0.01 }
+        { "Name": "euro", "PluralName": "euros", "Value": 1.00 },
+        { "Name": "cent", "PluralName":  "cents", "Value": 0.01 }
       ]
     }
   ]
