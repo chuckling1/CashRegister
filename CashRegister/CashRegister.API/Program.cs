@@ -1,4 +1,5 @@
 using CashRegister.Core.Implementations;
+using CashRegister.Core.Implementations.ChangeCalculators;
 using CashRegister.Core.Interfaces;
 using CashRegister.Core.Models;
 
@@ -14,6 +15,9 @@ builder.Services.Configure<CurrencyOptions>(builder.Configuration.GetSection("Cu
 
 // Register services
 builder.Services.AddSingleton<ICurrencyRepository, CurrencyRepository>();
+builder.Services.AddSingleton<IRandomGenerator, RandomGenerator>();
+builder.Services.AddScoped<IChangeCalculator, OptimalChangeCalculator>();
+builder.Services.AddScoped<IChangeCalculatorService, ChangeCalculatorService>();
 
 // Add services to the container.
 builder.Services.AddControllers();

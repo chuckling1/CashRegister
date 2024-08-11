@@ -15,4 +15,8 @@
       <ProjectReference Include="..\CashRegister.Core\CashRegister.Core.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Include="Configuration\currencies.json" />
+    </ItemGroup>
+
 </Project>
